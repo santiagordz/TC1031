@@ -1,7 +1,7 @@
 // =================================================================
 //
 // File: main.cpp
-// Author: Gamaliel Marines Olvera
+// Authors: Santiago Rodriguez Murialdo, Sebastian Jimenez Bauer
 // Date: 09/10/2022
 //
 // =================================================================
